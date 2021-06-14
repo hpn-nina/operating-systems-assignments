@@ -2,7 +2,7 @@
 #include<stdlib.h>
 int main() 
 {
- 	int a[10],b[10],x[10], pn[10],i,j,smallest,count=0,time,n,response[10];
+ 	int a[10],b[10],x[10], pn[10],i,j,smallest,count=0,time,n,response[10]; 
  	float avg=0,tt=0,end;
  	int wt[10], t_t[10];
  	FILE *file;
